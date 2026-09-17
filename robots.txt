@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonaramdas370-rgb.github.io/AURA-24-7-AI1/sitemap.xml
